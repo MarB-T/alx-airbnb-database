@@ -1,2 +1,2 @@
 ## Entity Relationship Diagram
-![ERD](https://drive.google.com/file/d/1_rO0WBfAqjTKDVbe3daTKDzdpeLILaQs/view?usp=sharing)
+![ERD](https://drive.google.com/uc?export=view&id=1_rO0WBfAqjTKDVbe3daTKDzdpeLILaQs)
