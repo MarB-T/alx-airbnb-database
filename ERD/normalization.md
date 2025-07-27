@@ -23,3 +23,8 @@ Normalization progresses through First Normal Form (1NF), Second Normal Form (2N
 - Identify non-key attributes that depend on other non-key attributes
 - Move these attributes to a new table with the attribute they depend on
 - Link back using foreign key
+
+## Review of entities
+All the entities in the alx-aribnb-databse are 3NF comlient with all the attributes in each entity dependent only on the entity's primary key.
+
+The only exception is the booking table where the attribute total_price is is derived.
