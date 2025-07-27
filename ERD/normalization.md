@@ -27,4 +27,5 @@ Normalization progresses through First Normal Form (1NF), Second Normal Form (2N
 ## Review of entities
 All the entities in the alx-aribnb-databse are 3NF comlient with all the attributes in each entity dependent only on the entity's primary key.
 
-The only exception is the booking table where the attribute total_price is is derived.
+The only exception is the booking table where the attribute total_price is is derived. total_price should thus be removed.
+
